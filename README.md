@@ -22,7 +22,7 @@ app/build.gradle
 
 ```
 dependencies {
-    implementation 'com.github.GleisonMV:secure-store:beta'
+    implementation 'com.github.GleisonMV:secure-store:0.6.0b'
 }
 ```
 
