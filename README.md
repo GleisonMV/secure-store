@@ -3,7 +3,6 @@ Armazenamento seguro para Android baseado em KeyStore
 
 [![](https://jitpack.io/v/GleisonMV/secure-store.svg)](https://jitpack.io/#GleisonMV/secure-store)
 
-
 # Instalação
 
 
